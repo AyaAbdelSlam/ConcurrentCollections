@@ -1,0 +1,11 @@
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\bin\Debug\netcoreapp3.1\ThreadingFullExample.exe
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\bin\Debug\netcoreapp3.1\ThreadingFullExample.deps.json
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\bin\Debug\netcoreapp3.1\ThreadingFullExample.runtimeconfig.json
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\bin\Debug\netcoreapp3.1\ThreadingFullExample.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\bin\Debug\netcoreapp3.1\ThreadingFullExample.dll
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\bin\Debug\netcoreapp3.1\ThreadingFullExample.pdb
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\obj\Debug\netcoreapp3.1\ThreadingFullExample.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\obj\Debug\netcoreapp3.1\ThreadingFullExample.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\obj\Debug\netcoreapp3.1\ThreadingFullExample.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\obj\Debug\netcoreapp3.1\ThreadingFullExample.dll
+C:\Users\ahemaid\source\repos\ThreadingFullExample\ThreadingFullExample\obj\Debug\netcoreapp3.1\ThreadingFullExample.pdb
